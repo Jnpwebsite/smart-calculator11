@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jnpwebsite.github.io/smart-calculator11/sitemap.xml
